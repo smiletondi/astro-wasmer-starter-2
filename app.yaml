@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: cut-left-morning
+package: smiletondi/cut-left-morning
